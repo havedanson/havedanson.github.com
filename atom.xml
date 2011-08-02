@@ -4,13 +4,29 @@
   <title></title>
   <link href="http://havedanson.github.com/atom.xml" rel="self"/>
   <link href="http://havedanson.github.com/"/>
-  <updated>2011-08-01T21:55:07-04:00</updated>
+  <updated>2011-08-01T22:04:49-04:00</updated>
   <id>http://havedanson.github.com/</id>
   <author>
     <name>David K Hanson</name>
     
   </author>
 
+  
+  <entry>
+    <title>Second Post: Finally Got This Thing Running</title>
+    <link href="http://havedanson.github.com/blog/2011/08/01/second-post-finally-got-this-thing-running/"/>
+    <updated>2011-08-01T22:01:00-04:00</updated>
+    <id>http://havedanson.github.com/blog/2011/08/01/second-post-finally-got-this-thing-running</id>
+    <content type="html">&lt;p&gt;Alrighty that took most of the night but I finally got this thing up and running. It had pretty good instructions for me not knowing git, github, ruby, rake, and all of the other things... however after about 2 nights I have the default up and running and I am pleased. If I can get this post to appear I might well slap myself. Anyways, its fun to learn new things and I'm going to hopefully learn git and improve my css as I design this blog to be more of what I want it to be.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned :D&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dave&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
   
   <entry>
     <title>First_post</title>
