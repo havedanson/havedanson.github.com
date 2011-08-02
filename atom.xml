@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://havedanson.github.com/atom.xml" rel="self"/>
+  <link href="http://havedanson.github.com/"/>
+  <updated>2011-08-01T21:55:07-04:00</updated>
+  <id>http://havedanson.github.com/</id>
+  <author>
+    <name>David K Hanson</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>First_post</title>
+    <link href="http://havedanson.github.com/blog/2011/08/01/first_post/"/>
+    <updated>2011-08-01T21:47:00-04:00</updated>
+    <id>http://havedanson.github.com/blog/2011/08/01/first_post</id>
+    <content type="html">&lt;p&gt;This is the greates post I have evar seen!&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
